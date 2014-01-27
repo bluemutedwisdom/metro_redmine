@@ -2018,3 +2018,7 @@ div#projects-index .my-project a.selected, div#projects-index .my-project a:hove
 a.sort.desc {
     background-image: url("../images/sort_desc.png");
 }
+
+div#top-menu ul li ul.menu-children {
+    margin-top: 12px;
+}
